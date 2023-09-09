@@ -1,4 +1,4 @@
 welcome to my project !!!
 
-author : harshvardhan mohite
+author : harshvardhan mohite sir
 Twitter : @27harsh
