@@ -1,4 +1,4 @@
-welcome to my project !!!
+welcome to "Git for Beginners" my project !!!
 
 author : harshvardhan ajit mohite
 Twitter : @27harsh
